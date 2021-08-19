@@ -1,0 +1,566 @@
+[
+  {
+    "lineWrap": "true",
+    "text": "Tierra del Fuego - Santa Cruz",
+    "font": "10",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "28",
+      "115",
+      "30"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Santa Cruz - Chubut",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "32",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Chubut - Rio Negro",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "61",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Rio Negro - Neuquen",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "60",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Rio Negro - La Pampa",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "92",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Rio Negro - Mendoza",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "91",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Rio Negro - Bs. As.",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "122",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Neuquen - La Pampa",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "122",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Neuquen - Mendoza",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "153",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "La Pampa - Bs. As.",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "153",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "La Pampa - Mendoza",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "184",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "La Pampa - San Luis",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "184",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "La Pampa - Cordoba",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "215",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Bs. As. - Cordoba",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "215",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Bs. As. - C.A.B.A.",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "246",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Bs. As. - Santa Fe",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "246",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Bs. As. - Entre Rios",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "277",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Mendoza - San Luis",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "277",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Mendoza - San Juan",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "308",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "San Luis - Cordoba",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "308",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "San Luis - San Juan",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "339",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "San Luis - La Rioja",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "339",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Cordoba - Santa Fe",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "370",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Cba - Stgo. del Estero",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "371",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Cordoba - La Rioja",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "401",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Cordoba - Catamarca",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "401",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Santa Fe - Entre Rios",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "432",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Santa Fe - Stgo. del Estero",
+    "font": "9",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "432",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Santa Fe - Corrientes",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "463",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Santa Fe - Chaco",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "463",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Entre Rios - Corrientes",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "494",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "San Juan - La Rioja",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "494",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "La Rioja - Catamarca",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "525",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Catamarca - Stgo. del Estero",
+    "font": "9",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "525",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Catamarca - Tucuman",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "556",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Catamarca - Salta",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "556",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Tucuman - Stgo. del Estero",
+    "font": "9",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "587",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Tucuman - Salta",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "587",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Stgo. del Estero - Salta",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "618",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Stgo. del Estero - Chaco",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "618",
+      "125",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Chaco - Salta",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "649",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Chaco - Formosa",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "649",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Chaco - Corrientes",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "680",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Corrientes - Misiones",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "680",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Salta - Jujuy",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "10",
+      "711",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Salta - Formosa",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "239",
+      "711",
+      "115",
+      "20"
+    ]
+  },
+  {
+    "lineWrap": "false",
+    "text": "Regiones a separar",
+    "font": "11",
+    "editable": "false",
+    "bounds": [
+      "109",
+      "849",
+      "115",
+      "20"
+    ]
+  }
+]

@@ -1,0 +1,519 @@
+[
+  {
+    "bounds": [
+      "135",
+      "32",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Tierra Del Fuego",
+    "nombre2": "Santa Cruz"
+  },
+  {
+    "bounds": [
+      "364",
+      "32",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Santa Cruz",
+    "nombre2": "Chubut"
+  },
+  {
+    "bounds": [
+      "364",
+      "60",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Rio Negro",
+    "nombre2": "Neuquen"
+  },
+  {
+    "bounds": [
+      "135",
+      "60",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Chubut",
+    "nombre2": "Rio Negro"
+  },
+  {
+    "bounds": [
+      "364",
+      "91",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Rio Negro",
+    "nombre2": "Mendoza"
+  },
+  {
+    "bounds": [
+      "135",
+      "91",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "La Pampa",
+    "nombre2": "Rio Negro"
+  },
+  {
+    "bounds": [
+      "364",
+      "122",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Neuquen",
+    "nombre2": "La Pampa"
+  },
+  {
+    "bounds": [
+      "135",
+      "122",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Rio Negro",
+    "nombre2": "Buenos Aires"
+  },
+  {
+    "bounds": [
+      "364",
+      "153",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "La Pampa",
+    "nombre2": "Buenos Aires"
+  },
+  {
+    "bounds": [
+      "135",
+      "153",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Neuquen",
+    "nombre2": "Mendoza"
+  },
+  {
+    "bounds": [
+      "364",
+      "184",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "La Pampa",
+    "nombre2": "San Luis"
+  },
+  {
+    "bounds": [
+      "135",
+      "184",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "La Pampa",
+    "nombre2": "Mendoza"
+  },
+  {
+    "bounds": [
+      "364",
+      "215",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Buenos Aires",
+    "nombre2": "Cordoba"
+  },
+  {
+    "bounds": [
+      "135",
+      "215",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "La Pampa",
+    "nombre2": "Cordoba"
+  },
+  {
+    "bounds": [
+      "364",
+      "246",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Buenos Aires",
+    "nombre2": "Santa Fe"
+  },
+  {
+    "bounds": [
+      "135",
+      "246",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Buenos Aires",
+    "nombre2": "CABA"
+  },
+  {
+    "bounds": [
+      "364",
+      "277",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Mendoza",
+    "nombre2": "San Luis"
+  },
+  {
+    "bounds": [
+      "135",
+      "277",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Buenos Aires",
+    "nombre2": "Entre Rios"
+  },
+  {
+    "bounds": [
+      "364",
+      "308",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "San Luis",
+    "nombre2": "Cordoba"
+  },
+  {
+    "bounds": [
+      "135",
+      "308",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Mendoza",
+    "nombre2": "San Juan"
+  },
+  {
+    "bounds": [
+      "364",
+      "339",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "San Luis",
+    "nombre2": "La Rioja"
+  },
+  {
+    "bounds": [
+      "135",
+      "339",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "San Luis",
+    "nombre2": "San Juan"
+  },
+  {
+    "bounds": [
+      "364",
+      "370",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Cordoba",
+    "nombre2": "Santiago Del Estero"
+  },
+  {
+    "bounds": [
+      "135",
+      "370",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Cordoba",
+    "nombre2": "Santa Fe"
+  },
+  {
+    "bounds": [
+      "364",
+      "401",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Cordoba",
+    "nombre2": "Catamarca"
+  },
+  {
+    "bounds": [
+      "135",
+      "401",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Cordoba",
+    "nombre2": "La Rioja"
+  },
+  {
+    "bounds": [
+      "364",
+      "432",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Santa Fe",
+    "nombre2": "Santiago Del Estero"
+  },
+  {
+    "bounds": [
+      "135",
+      "432",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Santa Fe",
+    "nombre2": "Entre Rios"
+  },
+  {
+    "bounds": [
+      "364",
+      "463",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Santa Fe",
+    "nombre2": "Chaco"
+  },
+  {
+    "bounds": [
+      "135",
+      "463",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Santa Fe",
+    "nombre2": "Corrientes"
+  },
+  {
+    "bounds": [
+      "364",
+      "494",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "San Juan",
+    "nombre2": "La Rioja"
+  },
+  {
+    "bounds": [
+      "135",
+      "494",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Entre Rios",
+    "nombre2": "Corrientes"
+  },
+  {
+    "bounds": [
+      "364",
+      "525",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Catamarca",
+    "nombre2": "Santiago Del Estero"
+  },
+  {
+    "bounds": [
+      "135",
+      "525",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "La Rioja",
+    "nombre2": "Catamarca"
+  },
+  {
+    "bounds": [
+      "364",
+      "556",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Catamarca",
+    "nombre2": "Salta"
+  },
+  {
+    "bounds": [
+      "135",
+      "556",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Catamarca",
+    "nombre2": "Tucuman"
+  },
+  {
+    "bounds": [
+      "364",
+      "587",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Tucuman",
+    "nombre2": "Salta"
+  },
+  {
+    "bounds": [
+      "135",
+      "587",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Tucuman",
+    "nombre2": "Santiago Del Estero"
+  },
+  {
+    "bounds": [
+      "364",
+      "618",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Santiago Del Estero",
+    "nombre2": "Chaco"
+  },
+  {
+    "bounds": [
+      "135",
+      "618",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Santiago Del Estero",
+    "nombre2": "Salta"
+  },
+  {
+    "bounds": [
+      "364",
+      "649",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Chaco",
+    "nombre2": "Formosa"
+  },
+  {
+    "bounds": [
+      "135",
+      "649",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Chaco",
+    "nombre2": "Salta"
+  },
+  {
+    "bounds": [
+      "364",
+      "680",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Corrientes",
+    "nombre2": "Misiones"
+  },
+  {
+    "bounds": [
+      "135",
+      "680",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Chaco",
+    "nombre2": "Corrientes"
+  },
+  {
+    "bounds": [
+      "364",
+      "711",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Salta",
+    "nombre2": "Formosa"
+  },
+  {
+    "bounds": [
+      "135",
+      "711",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Salta",
+    "nombre2": "Jujuy"
+  },
+  {
+    "bounds": [
+      "135",
+      "711",
+      "31",
+      "20"
+    ],
+    "columns": "10",
+    "nombre1": "Salta",
+    "nombre2": "Jujuy"
+  }
+]

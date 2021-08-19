@@ -1,0 +1,170 @@
+[
+  {
+    "datosCoordenadas": [
+      "-36.2",
+      "-60.0"
+    ],
+    "nombre": "Buenos Aires"
+  },
+  {
+    "datosCoordenadas": [
+      "-34.5",
+      "-58.8"
+    ],
+    "nombre": "CABA"
+  },
+  {
+    "datosCoordenadas": [
+      "-32.0",
+      "-59.1"
+    ],
+    "nombre": "Entre Rios"
+  },
+  {
+    "datosCoordenadas": [
+      "-28.5",
+      "-58.0"
+    ],
+    "nombre": "Corrientes"
+  },
+  {
+    "datosCoordenadas": [
+      "-26.8",
+      "-54.5"
+    ],
+    "nombre": "Misiones"
+  },
+  {
+    "datosCoordenadas": [
+      "-26.8",
+      "-60.5"
+    ],
+    "nombre": "Chaco"
+  },
+  {
+    "datosCoordenadas": [
+      "-25.3",
+      "-60.0"
+    ],
+    "nombre": "Formosa"
+  },
+  {
+    "datosCoordenadas": [
+      "-27.5",
+      "-63.5"
+    ],
+    "nombre": "Santiago Del Estero"
+  },
+  {
+    "datosCoordenadas": [
+      "-23.0",
+      "-66.0"
+    ],
+    "nombre": "Jujuy"
+  },
+  {
+    "datosCoordenadas": [
+      "-25.3",
+      "-65.0"
+    ],
+    "nombre": "Salta"
+  },
+  {
+    "datosCoordenadas": [
+      "-32.0",
+      "-63.8"
+    ],
+    "nombre": "Cordoba"
+  },
+  {
+    "datosCoordenadas": [
+      "-26.8",
+      "-65.35"
+    ],
+    "nombre": "Tucuman"
+  },
+  {
+    "datosCoordenadas": [
+      "-27.2",
+      "-67.2"
+    ],
+    "nombre": "Catamarca"
+  },
+  {
+    "datosCoordenadas": [
+      "-30.7",
+      "-60.5"
+    ],
+    "nombre": "Santa Fe"
+  },
+  {
+    "datosCoordenadas": [
+      "-29.4",
+      "-67.2"
+    ],
+    "nombre": "La Rioja"
+  },
+  {
+    "datosCoordenadas": [
+      "-30.7",
+      "-68.8"
+    ],
+    "nombre": "San Juan"
+  },
+  {
+    "datosCoordenadas": [
+      "-34.1",
+      "-68.5"
+    ],
+    "nombre": "Mendoza"
+  },
+  {
+    "datosCoordenadas": [
+      "-33.5",
+      "-65.9"
+    ],
+    "nombre": "San Luis"
+  },
+  {
+    "datosCoordenadas": [
+      "-37.0",
+      "-65.5"
+    ],
+    "nombre": "La Pampa"
+  },
+  {
+    "datosCoordenadas": [
+      "-40.0",
+      "-66.5"
+    ],
+    "nombre": "Rio Negro"
+  },
+  {
+    "datosCoordenadas": [
+      "-38.5",
+      "-70.0"
+    ],
+    "nombre": "Neuquen"
+  },
+  {
+    "datosCoordenadas": [
+      "-43.8",
+      "-68.5"
+    ],
+    "nombre": "Chubut"
+  },
+  {
+    "datosCoordenadas": [
+      "-48.8",
+      "-70.0"
+    ],
+    "nombre": "Santa Cruz"
+  },
+  {
+    "datosCoordenadas": [
+      "-54.0",
+      "-68.0"
+    ],
+    "nombre": "Tierra Del Fuego"
+  }
+]
